@@ -156,7 +156,7 @@ li.navi a:active {
     border:solid 5px black;
     float: right;
     color: lightgray;
-    height: 200px;
+    min-height: 200px;
     width: 45%;
     margin: 0;
     padding: 1%;
@@ -256,7 +256,7 @@ a.gitLinks{
         float: none;
         color: lightgray;
         height: auto;
-        min-height: 200px;
+        min-height: 400px;
         width: 96%;
         margin: 0;
         padding: 1%;
