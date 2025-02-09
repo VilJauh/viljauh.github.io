@@ -196,7 +196,7 @@ a.gitLinks{
     border-radius: 30px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4)
 }
-#webSivukuva{
+#websitePicture{
     border:solid 5px black;
 }
 @media only screen and (max-width: 800px) {
